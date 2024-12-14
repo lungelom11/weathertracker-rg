@@ -6,3 +6,6 @@ A web application that allows users to track weather updates in real-time for th
 - Azure Container Instance (Running the containers for development/testing)
 - Azure Functions (Weather alert system)
 - Azure Container Apps (Running the containers in production)
+
+
+![APP UI](src/assets/app-ui.PNG "Project Logo")
