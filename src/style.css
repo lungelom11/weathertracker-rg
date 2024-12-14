@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: 600
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    min-height: 80vh;
+    margin: 0 auto;
+}
+
+.header-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.logo {
+    width: 300px;
+    cursor: pointer;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.input{
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+}
+
+/* City report section */
+
+.city-report-container{
+    min-width: 700px;
+    margin: 2rem auto;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: .5rem;
+}
+
+.city-name{
+    background-color: skyblue;
+}
