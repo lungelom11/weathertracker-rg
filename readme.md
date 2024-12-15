@@ -8,4 +8,8 @@ A web application that allows users to track weather updates in real-time for th
 - Azure Container Apps (Running the containers in production)
 
 
-![APP UI](src/assets/app-ui.PNG "Project Logo")
+![APP UI](src/assets/app-ui.PNG "Project UI")
+
+![APP UI](src/assets/snap-2.PNG "Azure Portal")
+
+![APP UI](src/assets/snap-1.PNG "Azure Portal")
